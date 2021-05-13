@@ -1,0 +1,185 @@
+Module 1: Introduction to Data Warehousing
+
+    Recorded Lecture 1.1 Page
+
+    Contents
+        Introduction to Data Warehousing - I
+    Recorded Lecture 1.2 Page
+
+    Contents
+        Introduction to Data Warehousing - II
+    slide-part1 File
+    slide-part2 File
+
+Module 2: Introduction to Dimensional Modeling
+
+    Recorded Lecture 2.1 Page
+
+    Contents
+        Introduction to Data Modeling - I
+    Recorded Lecture 2.2 Page
+
+    Contents
+        Introduction to Data Modeling - II
+    slide-part1 File
+    slide-part2 File
+
+Module 3: Architectural Components of a Data Warehouse
+
+    Recorded Lecture 3.1 Page
+
+    Contents
+        Basic Elements of a Data Warehouse - I
+    Recorded Lecture 3.2 Page
+
+    Contents
+        Basic Elements of a Data Warehouse - II
+    slides-part1 File
+    slides-part2 File
+
+Module 4: Extraction, Transformation & Loading (ETL)
+
+    Recorded Lecture 4.1 Page
+
+    Contents
+        ETL Overview
+    Recorded Lecture 4.2 Page
+
+    Contents
+        Data Transformation and Data Loading
+    Recorded Lecture 4.3 Page
+
+    Contents
+        Data Quality
+    Slides - part 1 File
+    Slides - par 2 File
+
+Module 5: Advanced Dimensional Modelling
+
+    Recorded Lecture 5.1 Page
+
+    Contents
+        Changing Dimensions, Surrogate keys & Look up tables
+        Mini-dimensions & Outriggers
+    Recorded Lecture 5.2 Page
+
+    Contents
+        Time Dimension
+        Conformed Dimensions & Facts
+    Recorded Lecture 5.3 Page
+
+    Contents
+        Multi-valued Dimensions (Bridge & Helper Tables)
+        Dimension Hierarchies
+        Role-playing Dimensions
+        Factless Fact Tables
+    Recorded Lecture 5.4 Page
+
+    Contents
+        Academic Warehouse Case Study
+    Recorded Lecture 5.5 Page
+
+    Contents
+        Bank Data Warehouse Case Study
+    Module 5 Slides Folder
+
+Module 6: OLAP & Multi-dimensional Databases
+
+    Recorded Lecture 6.1 Page
+
+    Contents
+        Introduction to OLAP, OLAP features and functions
+    Recorded Lecture 6.2 Page
+
+    Contents
+        Multidimensional Databases
+    Recorded Lecture 6.3 Page
+
+    Contents
+        Cube Computation: Complexity & Optimization
+    Slides-Module6-Part1 File
+    Slides-Module6-Part2 File
+    Slides-Module6-Part3 File
+
+Module 7: Query Performance Enhancing Techniques
+
+    Recorded Lecture 7.1 Page
+
+    Contents
+        Aggregation & Sparsity Failure
+    Recorded Lecture 7.2 Page
+
+    Contents
+        Shrunken, Lost & Collapsed Dimensions
+    Recorded Lecture 7.4 Page
+
+    Contents
+        Partitioning & Partitioning w.r.t time
+    Recorded Lecture 7.5 Page
+
+    Contents
+        View Materialization
+        Selection of views to materialize
+    Recorded Lecture 7.6 Page
+
+    Contents
+        View Maintenance Strategies
+        Incremental Maintenance Algorithms
+    Recorded Lecture 7.7 Page
+
+    Contents
+        Bitmap Indices
+        Bitmap Compression Strategies
+    Module 7 Slides Folder
+
+Module 8: Metadata
+
+    Recorded Lecture 8.1 Page
+
+    Contents
+
+        Role of Metadata
+        Types of Metadata
+
+    Recorded Lecture 8.2 Page
+
+    Contents
+        Metadata Design & Implementation
+    Module 8 Slides Folder
+
+Module 9: Support for Data Warehousing in RDBMSs
+
+    Recorded Lecture 9.1 Page
+
+    Contents
+        Support for Data Warehousing in RDBMSs
+    Recorded Lecture 9.2 Page
+
+    Contents
+        New Features in SQL
+    Module 9 Slides Folder
+
+Module 10: Real-Time Data Warehousing (RTDWH)
+
+    Recorded Lecture 10.1 Page
+
+    Contents
+        Need and Solutions for Real-Time Data Warehousing
+    Recorded Lecture 10.2 Page
+
+    Contents
+        Real-time ETL
+        Role of ODS in RTDWH
+    Module 10 Slides Folder
+
+Module 11: Current Trends in Data Warehousing
+
+    Recorded Lecture 11.1 Page
+
+    Contents
+        Introduction to World's Largest Data Warehouse
+    Recorded Lecture 11.2 Page
+
+    Contents
+        Introduction to World's Largest Data Warehouse
+    Module 11 Slides
